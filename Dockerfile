@@ -1,5 +1,5 @@
 # For more information, please refer to https://aka.ms/vscode-docker-python
-FROM python:3.9.1-alpine
+FROM python:3.9-alpine as base
 
 # Keeps Python from generating .pyc files in the container
 ENV PYTHONDONTWRITEBYTECODE=1
@@ -7,16 +7,20 @@ ENV PYTHONDONTWRITEBYTECODE=1
 # Turns off buffering for easier container logging
 ENV PYTHONUNBUFFERED=1
 
-# Install pip requirements
-COPY requirements.txt .
-RUN python -m pip install -r requirements.txt
+FROM base as builder
+COPY requirements.txt /requirements.txt
+RUN mkdir /install
+WORKDIR /install
 
+ARG BUILD_DEPS="build-base gcc musl-dev"
+RUN apk add --no-cache --virtual ${BUILD_DEPS} \
+    && pip install --upgrade pip \
+    && pip install --no-cache-dir --prefix=/install -r /requirements.txt \
+    && apk del ${BUILD_DEPS}
+
+FROM base
 WORKDIR /app
-COPY . /app
+COPY --from=builder /install /usr/local
+COPY . .
 
-# Switching to a non-root user, please refer to https://aka.ms/vscode-docker-python-user-rights
-RUN useradd appuser && chown -R appuser /app
-USER appuser
-
-# During debugging, this entry point will be overridden. For more information, please refer to https://aka.ms/vscode-docker-python-debug
 CMD ["python", "app.py"]
