@@ -1,0 +1,2414 @@
+[
+  {
+    "HOLIDAY_ID": 1,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 2,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-02-02",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 3,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-03-16",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 4,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 5,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 6,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 7,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-11-16",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 8,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 9,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 10,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 11,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-02-01",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 12,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-03-21",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 13,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 14,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 15,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 16,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-11-21",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 17,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 18,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 19,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 20,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-02-06",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 21,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-03-20",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 22,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 23,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 24,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 25,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-11-20",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 26,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 27,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 28,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 29,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-02-05",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 30,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-03-19",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 31,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 32,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 33,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 34,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-11-19",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 35,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 36,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 37,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-12-01",
+    "DESCRIPTION": "Transmisión del Poder Ejecutivo Federal"
+  },
+  {
+    "HOLIDAY_ID": 38,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 39,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-02-04",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 40,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-03-18",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 41,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 42,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 43,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 44,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-11-18",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 45,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 46,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 47,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 48,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-02-03",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 49,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-03-16",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 50,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 51,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 52,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 53,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-11-16",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 54,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 55,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 56,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 57,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-02-01",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 58,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-03-15",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 59,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 60,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 61,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 62,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-11-15",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 63,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 64,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 65,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 66,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-02-07",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 67,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-03-21",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 68,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 69,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 70,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 71,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-11-21",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 72,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 73,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 74,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 75,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-02-06",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 76,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-03-20",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 77,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 78,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 79,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 80,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-11-20",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 81,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 82,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 83,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 84,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-02-05",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 85,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-03-18",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 86,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 87,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 88,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 89,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-11-18",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 90,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 91,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 92,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-12-01",
+    "DESCRIPTION": "Transmisión del Poder Ejecutivo Federal"
+  },
+  {
+    "HOLIDAY_ID": 93,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 94,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-02-03",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 95,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-03-17",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 96,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 97,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 98,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 99,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-11-17",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 100,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 101,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 102,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 103,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-02-02",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 104,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-03-16",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 105,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 106,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 107,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 108,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-11-16",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 109,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 110,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 111,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 112,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-02-01",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 113,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-03-15",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 114,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 115,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 116,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 117,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-11-15",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 118,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 119,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 120,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 121,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-02-07",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 122,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-03-20",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 123,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 124,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 125,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 126,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-11-20",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 127,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 128,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 129,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 130,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-02-05",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 131,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-03-19",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 132,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 133,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 134,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 135,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-11-19",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 136,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 137,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 138,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 139,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-02-04",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 140,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-03-18",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 141,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 142,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 143,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 144,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-11-18",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 145,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 146,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 147,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-12-01",
+    "DESCRIPTION": "Transmisión del Poder Ejecutivo Federal"
+  },
+  {
+    "HOLIDAY_ID": 148,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 149,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-02-03",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 150,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-03-17",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 151,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 152,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 153,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 154,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-11-17",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 155,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 156,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 157,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 158,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-02-02",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 159,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-03-15",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 160,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 161,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 162,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 163,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-11-15",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 164,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 165,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 166,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 167,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-02-07",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 168,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-03-21",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 169,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 170,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 171,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 172,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-11-21",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 173,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 174,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 175,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 176,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-02-06",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 177,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-03-20",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 178,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 179,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 180,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 181,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-11-20",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 182,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 183,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 184,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 185,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-02-05",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 186,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-03-19",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 187,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 188,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 189,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 190,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-11-19",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 191,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 192,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 193,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 194,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-02-04",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 195,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-03-17",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 196,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 197,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 198,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 199,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-11-17",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 200,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 201,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 202,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-12-01",
+    "DESCRIPTION": "Transmisión del Poder Ejecutivo Federal"
+  },
+  {
+    "HOLIDAY_ID": 203,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 204,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-02-02",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 205,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-03-16",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 206,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 207,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 208,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 209,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-11-16",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 210,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 211,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 212,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 213,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-02-01",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 214,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-03-15",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 215,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 216,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 217,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 218,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-11-15",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 219,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 220,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 221,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 222,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-02-07",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 223,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-03-21",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 224,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 225,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 226,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 227,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-11-21",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 228,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 229,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 230,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 231,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-02-06",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 232,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-03-19",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 233,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 234,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 235,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 236,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-11-19",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 237,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 238,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 239,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 240,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-02-04",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 241,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-03-18",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 242,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 243,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 244,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 245,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-11-18",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 246,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 247,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 248,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 249,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-02-03",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 250,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-03-17",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 251,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 252,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 253,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 254,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-11-17",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 255,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 256,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 257,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-12-01",
+    "DESCRIPTION": "Transmisión del Poder Ejecutivo Federal"
+  },
+  {
+    "HOLIDAY_ID": 258,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 259,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-02-02",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 260,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-03-16",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 261,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 262,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 263,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 264,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-11-16",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 265,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 266,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 267,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 268,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-02-01",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 269,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-03-21",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 270,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 271,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 272,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 273,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-11-21",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 274,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 275,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 276,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 277,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-02-06",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 278,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-03-20",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 279,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 280,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 281,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 282,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-11-20",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 283,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 284,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 285,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 286,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-02-05",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 287,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-03-19",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 288,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 289,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 290,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 291,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-11-19",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 292,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 293,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 294,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 295,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-02-04",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 296,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-03-18",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 297,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 298,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 299,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 300,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-11-18",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 301,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 302,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 303,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 304,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-02-03",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 305,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-03-16",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 306,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 307,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 308,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 309,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-11-16",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 310,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 311,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 312,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-12-01",
+    "DESCRIPTION": "Transmisión del Poder Ejecutivo Federal"
+  },
+  {
+    "HOLIDAY_ID": 313,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 314,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-02-01",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 315,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-03-15",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 316,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 317,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 318,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 319,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-11-15",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 320,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 321,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 322,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-01-01",
+    "DESCRIPTION": "Año Nuevo"
+  },
+  {
+    "HOLIDAY_ID": 323,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-02-07",
+    "DESCRIPTION": "Día de la Constitución"
+  },
+  {
+    "HOLIDAY_ID": 324,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-03-21",
+    "DESCRIPTION": "Natalicio de Benito Juárez"
+  },
+  {
+    "HOLIDAY_ID": 325,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-05-01",
+    "DESCRIPTION": "Día del Trabajo"
+  },
+  {
+    "HOLIDAY_ID": 326,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-09-16",
+    "DESCRIPTION": "Día de la Independencia"
+  },
+  {
+    "HOLIDAY_ID": 327,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-11-02",
+    "DESCRIPTION": "Día de los Muertos"
+  },
+  {
+    "HOLIDAY_ID": 328,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-11-21",
+    "DESCRIPTION": "Aniversario Revolución"
+  },
+  {
+    "HOLIDAY_ID": 329,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-12-12",
+    "DESCRIPTION": "Día del Empleado Bancario"
+  },
+  {
+    "HOLIDAY_ID": 330,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-12-25",
+    "DESCRIPTION": "Navidad"
+  },
+  {
+    "HOLIDAY_ID": 331,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-04-17",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 332,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2015-04-18",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 333,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-03-24",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 334,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2016-03-25",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 335,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-04-13",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 336,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2017-04-14",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 337,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-03-29",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 338,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2018-03-30",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 339,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-04-18",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 340,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2019-04-19",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 341,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-04-09",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 342,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2020-04-10",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 343,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-04-01",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 344,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2021-04-02",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 345,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-04-14",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 346,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2022-04-15",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 347,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-04-06",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 348,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2023-04-07",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 349,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-03-28",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 350,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2024-03-29",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 351,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-04-17",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 352,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2025-04-18",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 353,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-04-02",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 354,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2026-04-03",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 355,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-03-25",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 356,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2027-03-26",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 357,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-04-13",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 358,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2028-04-14",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 359,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-03-29",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 360,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2029-03-30",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 361,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-04-18",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 362,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2030-04-19",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 363,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-04-10",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 364,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2031-04-11",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 365,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-03-25",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 366,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2032-03-26",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 367,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-04-14",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 368,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2033-04-15",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 369,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-04-06",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 370,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2034-04-07",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 371,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-03-22",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 372,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2035-03-23",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 373,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-04-10",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 374,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2036-04-11",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 375,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-04-02",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 376,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2037-04-03",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 377,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-04-22",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 378,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2038-04-23",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 379,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-04-07",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 380,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2039-04-08",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 381,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-03-29",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 382,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2040-03-30",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 383,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-04-18",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 384,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2041-04-19",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 385,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-04-03",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 386,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2042-04-04",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 387,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-03-26",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 388,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2043-03-27",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 389,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-04-14",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 390,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2044-04-15",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 391,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-04-06",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 392,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2045-04-07",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 393,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-03-22",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 394,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2046-03-23",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 395,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-04-11",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 396,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2047-04-12",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 397,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-04-02",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 398,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2048-04-03",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 399,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-04-15",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 400,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2049-04-16",
+    "DESCRIPTION": "Viernes Santo"
+  },
+  {
+    "HOLIDAY_ID": 401,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-04-07",
+    "DESCRIPTION": "Jueves Santo"
+  },
+  {
+    "HOLIDAY_ID": 402,
+    "COUNTRY_CODE": "MEX",
+    "DATE": "2050-04-08",
+    "DESCRIPTION": "Viernes Santo"
+  }
+]

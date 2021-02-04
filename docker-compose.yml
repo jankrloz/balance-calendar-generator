@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  balance-calendar-generator:
+    image: balance-calendar-generator
+    container_name: balance-calendar-generator
+    build:
+      context: .
+      dockerfile: ./Dockerfile
