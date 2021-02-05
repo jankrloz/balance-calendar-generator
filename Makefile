@@ -5,10 +5,11 @@ ifndef VERBOSE
 endif
 
 VENV_PATH := .venv
-export COMPOSE_PROJECT_NAME=table-to-core-model
+export COMPOSE_PROJECT_NAME=balance-calendar-generator 
 
 DOCKER-COMPOSE=docker-compose \
 		-f ./docker-compose.yml
+SERVICE := balance-calendar-generator
 
 venv:
 	@echo "Creating virtual environment ..."
@@ -48,7 +49,7 @@ clean.full:
 	$(DOCKER-COMPOSE) down -v --rmi all
 
 bash:
-	$(DOCKER-COMPOSE) run main /bin/sh
+	$(DOCKER-COMPOSE) run $(SERVICE) /bin/sh
 
 status:
 	echo "*** Status of containers ***"
