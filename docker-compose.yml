@@ -8,4 +8,12 @@ services:
       context: .
       dockerfile: ./Dockerfile
     volumes:
-      - .:/app
+      - balance-calendar-generator:/app:delegated
+
+volumes:
+  balance-calendar-generator:
+    driver: local
+    driver_opts:
+      type: none
+      device: ${PWD}
+      o: bind
