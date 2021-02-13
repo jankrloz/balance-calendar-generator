@@ -3,7 +3,7 @@ from typing import Optional
 
 from dateutil import rrule
 
-from src.holidays.application.holidays import get_holidays
+from src.holidays.infrastructure.holidays_json_repository import HolidaysJsonRepository
 
 
 def get_next_business_day(
@@ -26,7 +26,8 @@ def get_next_business_day(
         )
     )
     rs = [rule.date() for rule in rs]  # type: ignore
-    holidays = get_holidays(from_date.date(), until_date.date())
+    holidays_repository = HolidaysJsonRepository()
+    holidays = holidays_repository.get_holidays(from_date.date(), until_date.date())
     rs = list(filter(lambda date: date not in holidays, rs))  # type: ignore
     next_business_day = rs[0] if not reverse else rs[-1]
     if from_date.date() in rs and time_limit and from_date.time() >= time_limit:
