@@ -5,9 +5,9 @@ import simplejson
 from dateutil.relativedelta import relativedelta
 
 from src.balance.application.balance_dates import CLOSING_GROUPS
-from src.balance.application.balance_dates import compute_closing_date
-from src.balance.application.balance_dates import compute_payment_date
-from src.balance.application.balance_dates import compute_unpaid_date
+from src.balance.application.balance_dates import compute_cycle_date
+from src.balance.application.balance_dates import compute_payment_due_date
+from src.balance.application.balance_dates import compute_deliquency_date
 
 
 def get_base_dates(
@@ -26,24 +26,24 @@ def main():
         from_date=datetime.datetime(2021, 1, 1),
         to_date=datetime.datetime(2022, 1, 1),
     )
-    result = {}
+    balance_dates = []
     for closing_group in CLOSING_GROUPS:
-        balance_dates = []
         for base_date, next_base_date in zip(base_dates, base_dates[1:]):
-            unpaid_date = compute_unpaid_date(base_date, closing_group)
-            closing_date = compute_closing_date(unpaid_date)
-            payment_date = compute_payment_date(closing_date)
-            unpaid_date = compute_unpaid_date(next_base_date, closing_group)
+            deliquency_date = compute_deliquency_date(base_date, closing_group)
+            cycle_date = compute_cycle_date(deliquency_date)
+            payment_due_date = compute_payment_due_date(cycle_date)
+            deliquency_date = compute_deliquency_date(next_base_date, closing_group)
             balance_dates.append(
                 {
-                    "month": base_date.month,
-                    "closing_date": closing_date.strftime("%Y-%m-%d"),
-                    "payment_date": payment_date.strftime("%Y-%m-%d"),
-                    "unpaid_date": unpaid_date.strftime("%Y-%m-%d"),
+                    "GROUP": closing_group,
+                    "YEAR": base_date.year,
+                    "MONTH": base_date.month,
+                    "CYCLE_DATE": cycle_date.strftime("%Y-%m-%d"),
+                    "PAYMENT_DUE_DATE": payment_due_date.strftime("%Y-%m-%d"),
+                    "DELIQUENCY_DATE": deliquency_date.strftime("%Y-%m-%d"),
                 }
             )
-        result[closing_group] = balance_dates
-    json = simplejson.dumps(result, sort_keys=True, indent=4 * " ")
+    json = simplejson.dumps(balance_dates, indent=4 * " ")
     with open("balance_dates.json", "w+") as json_file:
         json_file.write(json)
 

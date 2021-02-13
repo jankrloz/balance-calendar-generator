@@ -1,446 +1,578 @@
-{
-    "1": [
-        {
-            "closing_date": "2021-01-05",
-            "month": 1,
-            "payment_date": "2021-01-25",
-            "unpaid_date": "2021-02-02"
-        },
-        {
-            "closing_date": "2021-02-03",
-            "month": 2,
-            "payment_date": "2021-02-23",
-            "unpaid_date": "2021-03-01"
-        },
-        {
-            "closing_date": "2021-03-02",
-            "month": 3,
-            "payment_date": "2021-03-22",
-            "unpaid_date": "2021-04-05"
-        },
-        {
-            "closing_date": "2021-04-06",
-            "month": 4,
-            "payment_date": "2021-04-26",
-            "unpaid_date": "2021-05-03"
-        },
-        {
-            "closing_date": "2021-05-04",
-            "month": 5,
-            "payment_date": "2021-05-24",
-            "unpaid_date": "2021-06-01"
-        },
-        {
-            "closing_date": "2021-06-02",
-            "month": 6,
-            "payment_date": "2021-06-22",
-            "unpaid_date": "2021-07-01"
-        },
-        {
-            "closing_date": "2021-07-02",
-            "month": 7,
-            "payment_date": "2021-07-22",
-            "unpaid_date": "2021-08-02"
-        },
-        {
-            "closing_date": "2021-08-03",
-            "month": 8,
-            "payment_date": "2021-08-23",
-            "unpaid_date": "2021-09-01"
-        },
-        {
-            "closing_date": "2021-09-02",
-            "month": 9,
-            "payment_date": "2021-09-22",
-            "unpaid_date": "2021-10-01"
-        },
-        {
-            "closing_date": "2021-10-04",
-            "month": 10,
-            "payment_date": "2021-10-24",
-            "unpaid_date": "2021-11-01"
-        },
-        {
-            "closing_date": "2021-11-03",
-            "month": 11,
-            "payment_date": "2021-11-23",
-            "unpaid_date": "2021-12-01"
-        },
-        {
-            "closing_date": "2021-12-02",
-            "month": 12,
-            "payment_date": "2021-12-22",
-            "unpaid_date": "2022-01-03"
-        }
-    ],
-    "10": [
-        {
-            "closing_date": "2021-02-10",
-            "month": 1,
-            "payment_date": "2021-03-02",
-            "unpaid_date": "2021-03-09"
-        },
-        {
-            "closing_date": "2021-03-10",
-            "month": 2,
-            "payment_date": "2021-03-30",
-            "unpaid_date": "2021-04-09"
-        },
-        {
-            "closing_date": "2021-04-12",
-            "month": 3,
-            "payment_date": "2021-05-02",
-            "unpaid_date": "2021-05-07"
-        },
-        {
-            "closing_date": "2021-05-10",
-            "month": 4,
-            "payment_date": "2021-05-30",
-            "unpaid_date": "2021-06-09"
-        },
-        {
-            "closing_date": "2021-06-10",
-            "month": 5,
-            "payment_date": "2021-06-30",
-            "unpaid_date": "2021-07-09"
-        },
-        {
-            "closing_date": "2021-07-12",
-            "month": 6,
-            "payment_date": "2021-08-01",
-            "unpaid_date": "2021-08-09"
-        },
-        {
-            "closing_date": "2021-08-10",
-            "month": 7,
-            "payment_date": "2021-08-30",
-            "unpaid_date": "2021-09-09"
-        },
-        {
-            "closing_date": "2021-09-10",
-            "month": 8,
-            "payment_date": "2021-09-30",
-            "unpaid_date": "2021-10-08"
-        },
-        {
-            "closing_date": "2021-10-11",
-            "month": 9,
-            "payment_date": "2021-10-31",
-            "unpaid_date": "2021-11-09"
-        },
-        {
-            "closing_date": "2021-11-10",
-            "month": 10,
-            "payment_date": "2021-11-30",
-            "unpaid_date": "2021-12-09"
-        },
-        {
-            "closing_date": "2021-12-10",
-            "month": 11,
-            "payment_date": "2021-12-30",
-            "unpaid_date": "2022-01-07"
-        },
-        {
-            "closing_date": "2022-01-10",
-            "month": 12,
-            "payment_date": "2022-01-30",
-            "unpaid_date": "2022-02-09"
-        }
-    ],
-    "17": [
-        {
-            "closing_date": "2021-02-17",
-            "month": 1,
-            "payment_date": "2021-03-09",
-            "unpaid_date": "2021-03-16"
-        },
-        {
-            "closing_date": "2021-03-17",
-            "month": 2,
-            "payment_date": "2021-04-06",
-            "unpaid_date": "2021-04-16"
-        },
-        {
-            "closing_date": "2021-04-19",
-            "month": 3,
-            "payment_date": "2021-05-09",
-            "unpaid_date": "2021-05-14"
-        },
-        {
-            "closing_date": "2021-05-17",
-            "month": 4,
-            "payment_date": "2021-06-06",
-            "unpaid_date": "2021-06-16"
-        },
-        {
-            "closing_date": "2021-06-17",
-            "month": 5,
-            "payment_date": "2021-07-07",
-            "unpaid_date": "2021-07-16"
-        },
-        {
-            "closing_date": "2021-07-19",
-            "month": 6,
-            "payment_date": "2021-08-08",
-            "unpaid_date": "2021-08-16"
-        },
-        {
-            "closing_date": "2021-08-17",
-            "month": 7,
-            "payment_date": "2021-09-06",
-            "unpaid_date": "2021-09-15"
-        },
-        {
-            "closing_date": "2021-09-17",
-            "month": 8,
-            "payment_date": "2021-10-07",
-            "unpaid_date": "2021-10-15"
-        },
-        {
-            "closing_date": "2021-10-18",
-            "month": 9,
-            "payment_date": "2021-11-07",
-            "unpaid_date": "2021-11-16"
-        },
-        {
-            "closing_date": "2021-11-17",
-            "month": 10,
-            "payment_date": "2021-12-07",
-            "unpaid_date": "2021-12-16"
-        },
-        {
-            "closing_date": "2021-12-17",
-            "month": 11,
-            "payment_date": "2022-01-06",
-            "unpaid_date": "2022-01-14"
-        },
-        {
-            "closing_date": "2022-01-17",
-            "month": 12,
-            "payment_date": "2022-02-06",
-            "unpaid_date": "2022-02-16"
-        }
-    ],
-    "24": [
-        {
-            "closing_date": "2021-02-24",
-            "month": 1,
-            "payment_date": "2021-03-16",
-            "unpaid_date": "2021-03-23"
-        },
-        {
-            "closing_date": "2021-03-24",
-            "month": 2,
-            "payment_date": "2021-04-13",
-            "unpaid_date": "2021-04-23"
-        },
-        {
-            "closing_date": "2021-04-26",
-            "month": 3,
-            "payment_date": "2021-05-16",
-            "unpaid_date": "2021-05-21"
-        },
-        {
-            "closing_date": "2021-05-24",
-            "month": 4,
-            "payment_date": "2021-06-13",
-            "unpaid_date": "2021-06-23"
-        },
-        {
-            "closing_date": "2021-06-24",
-            "month": 5,
-            "payment_date": "2021-07-14",
-            "unpaid_date": "2021-07-23"
-        },
-        {
-            "closing_date": "2021-07-26",
-            "month": 6,
-            "payment_date": "2021-08-15",
-            "unpaid_date": "2021-08-23"
-        },
-        {
-            "closing_date": "2021-08-24",
-            "month": 7,
-            "payment_date": "2021-09-13",
-            "unpaid_date": "2021-09-23"
-        },
-        {
-            "closing_date": "2021-09-24",
-            "month": 8,
-            "payment_date": "2021-10-14",
-            "unpaid_date": "2021-10-22"
-        },
-        {
-            "closing_date": "2021-10-25",
-            "month": 9,
-            "payment_date": "2021-11-14",
-            "unpaid_date": "2021-11-23"
-        },
-        {
-            "closing_date": "2021-11-24",
-            "month": 10,
-            "payment_date": "2021-12-14",
-            "unpaid_date": "2021-12-23"
-        },
-        {
-            "closing_date": "2021-12-24",
-            "month": 11,
-            "payment_date": "2022-01-13",
-            "unpaid_date": "2022-01-21"
-        },
-        {
-            "closing_date": "2022-01-24",
-            "month": 12,
-            "payment_date": "2022-02-13",
-            "unpaid_date": "2022-02-23"
-        }
-    ],
-    "3": [
-        {
-            "closing_date": "2021-01-05",
-            "month": 1,
-            "payment_date": "2021-01-25",
-            "unpaid_date": "2021-02-02"
-        },
-        {
-            "closing_date": "2021-02-03",
-            "month": 2,
-            "payment_date": "2021-02-23",
-            "unpaid_date": "2021-03-01"
-        },
-        {
-            "closing_date": "2021-03-02",
-            "month": 3,
-            "payment_date": "2021-03-22",
-            "unpaid_date": "2021-04-05"
-        },
-        {
-            "closing_date": "2021-04-06",
-            "month": 4,
-            "payment_date": "2021-04-26",
-            "unpaid_date": "2021-05-03"
-        },
-        {
-            "closing_date": "2021-05-04",
-            "month": 5,
-            "payment_date": "2021-05-24",
-            "unpaid_date": "2021-06-01"
-        },
-        {
-            "closing_date": "2021-06-02",
-            "month": 6,
-            "payment_date": "2021-06-22",
-            "unpaid_date": "2021-07-01"
-        },
-        {
-            "closing_date": "2021-07-02",
-            "month": 7,
-            "payment_date": "2021-07-22",
-            "unpaid_date": "2021-08-02"
-        },
-        {
-            "closing_date": "2021-08-03",
-            "month": 8,
-            "payment_date": "2021-08-23",
-            "unpaid_date": "2021-09-01"
-        },
-        {
-            "closing_date": "2021-09-02",
-            "month": 9,
-            "payment_date": "2021-09-22",
-            "unpaid_date": "2021-10-01"
-        },
-        {
-            "closing_date": "2021-10-04",
-            "month": 10,
-            "payment_date": "2021-10-24",
-            "unpaid_date": "2021-11-01"
-        },
-        {
-            "closing_date": "2021-11-03",
-            "month": 11,
-            "payment_date": "2021-11-23",
-            "unpaid_date": "2021-12-01"
-        },
-        {
-            "closing_date": "2021-12-02",
-            "month": 12,
-            "payment_date": "2021-12-22",
-            "unpaid_date": "2022-01-03"
-        }
-    ],
-    "30": [
-        {
-            "closing_date": "2021-01-05",
-            "month": 1,
-            "payment_date": "2021-01-25",
-            "unpaid_date": "2021-02-02"
-        },
-        {
-            "closing_date": "2021-02-03",
-            "month": 2,
-            "payment_date": "2021-02-23",
-            "unpaid_date": "2021-03-01"
-        },
-        {
-            "closing_date": "2021-03-02",
-            "month": 3,
-            "payment_date": "2021-03-22",
-            "unpaid_date": "2021-04-05"
-        },
-        {
-            "closing_date": "2021-04-06",
-            "month": 4,
-            "payment_date": "2021-04-26",
-            "unpaid_date": "2021-05-03"
-        },
-        {
-            "closing_date": "2021-05-04",
-            "month": 5,
-            "payment_date": "2021-05-24",
-            "unpaid_date": "2021-06-01"
-        },
-        {
-            "closing_date": "2021-06-02",
-            "month": 6,
-            "payment_date": "2021-06-22",
-            "unpaid_date": "2021-07-01"
-        },
-        {
-            "closing_date": "2021-07-02",
-            "month": 7,
-            "payment_date": "2021-07-22",
-            "unpaid_date": "2021-08-02"
-        },
-        {
-            "closing_date": "2021-08-03",
-            "month": 8,
-            "payment_date": "2021-08-23",
-            "unpaid_date": "2021-09-01"
-        },
-        {
-            "closing_date": "2021-09-02",
-            "month": 9,
-            "payment_date": "2021-09-22",
-            "unpaid_date": "2021-10-01"
-        },
-        {
-            "closing_date": "2021-10-04",
-            "month": 10,
-            "payment_date": "2021-10-24",
-            "unpaid_date": "2021-11-01"
-        },
-        {
-            "closing_date": "2021-11-03",
-            "month": 11,
-            "payment_date": "2021-11-23",
-            "unpaid_date": "2021-12-01"
-        },
-        {
-            "closing_date": "2021-12-02",
-            "month": 12,
-            "payment_date": "2021-12-22",
-            "unpaid_date": "2022-01-03"
-        }
-    ]
-}
+[
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 1,
+        "CYCLE_DATE": "2021-01-05",
+        "PAYMENT_DUE_DATE": "2021-01-05",
+        "DELIQUENCY_DATE": "2021-02-02"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 2,
+        "CYCLE_DATE": "2021-02-03",
+        "PAYMENT_DUE_DATE": "2021-02-03",
+        "DELIQUENCY_DATE": "2021-03-01"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 3,
+        "CYCLE_DATE": "2021-03-02",
+        "PAYMENT_DUE_DATE": "2021-03-02",
+        "DELIQUENCY_DATE": "2021-04-05"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 4,
+        "CYCLE_DATE": "2021-04-06",
+        "PAYMENT_DUE_DATE": "2021-04-06",
+        "DELIQUENCY_DATE": "2021-05-03"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 5,
+        "CYCLE_DATE": "2021-05-04",
+        "PAYMENT_DUE_DATE": "2021-05-04",
+        "DELIQUENCY_DATE": "2021-06-01"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 6,
+        "CYCLE_DATE": "2021-06-02",
+        "PAYMENT_DUE_DATE": "2021-06-02",
+        "DELIQUENCY_DATE": "2021-07-01"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 7,
+        "CYCLE_DATE": "2021-07-02",
+        "PAYMENT_DUE_DATE": "2021-07-02",
+        "DELIQUENCY_DATE": "2021-08-02"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 8,
+        "CYCLE_DATE": "2021-08-03",
+        "PAYMENT_DUE_DATE": "2021-08-03",
+        "DELIQUENCY_DATE": "2021-09-01"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 9,
+        "CYCLE_DATE": "2021-09-02",
+        "PAYMENT_DUE_DATE": "2021-09-02",
+        "DELIQUENCY_DATE": "2021-10-01"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 10,
+        "CYCLE_DATE": "2021-10-04",
+        "PAYMENT_DUE_DATE": "2021-10-04",
+        "DELIQUENCY_DATE": "2021-11-01"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 11,
+        "CYCLE_DATE": "2021-11-03",
+        "PAYMENT_DUE_DATE": "2021-11-03",
+        "DELIQUENCY_DATE": "2021-12-01"
+    },
+    {
+        "GROUP": 1,
+        "YEAR": 2021,
+        "MONTH": 12,
+        "CYCLE_DATE": "2021-12-02",
+        "PAYMENT_DUE_DATE": "2021-12-02",
+        "DELIQUENCY_DATE": "2022-01-03"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 1,
+        "CYCLE_DATE": "2021-01-05",
+        "PAYMENT_DUE_DATE": "2021-01-05",
+        "DELIQUENCY_DATE": "2021-02-02"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 2,
+        "CYCLE_DATE": "2021-02-03",
+        "PAYMENT_DUE_DATE": "2021-02-03",
+        "DELIQUENCY_DATE": "2021-03-01"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 3,
+        "CYCLE_DATE": "2021-03-02",
+        "PAYMENT_DUE_DATE": "2021-03-02",
+        "DELIQUENCY_DATE": "2021-04-05"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 4,
+        "CYCLE_DATE": "2021-04-06",
+        "PAYMENT_DUE_DATE": "2021-04-06",
+        "DELIQUENCY_DATE": "2021-05-03"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 5,
+        "CYCLE_DATE": "2021-05-04",
+        "PAYMENT_DUE_DATE": "2021-05-04",
+        "DELIQUENCY_DATE": "2021-06-01"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 6,
+        "CYCLE_DATE": "2021-06-02",
+        "PAYMENT_DUE_DATE": "2021-06-02",
+        "DELIQUENCY_DATE": "2021-07-01"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 7,
+        "CYCLE_DATE": "2021-07-02",
+        "PAYMENT_DUE_DATE": "2021-07-02",
+        "DELIQUENCY_DATE": "2021-08-02"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 8,
+        "CYCLE_DATE": "2021-08-03",
+        "PAYMENT_DUE_DATE": "2021-08-03",
+        "DELIQUENCY_DATE": "2021-09-01"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 9,
+        "CYCLE_DATE": "2021-09-02",
+        "PAYMENT_DUE_DATE": "2021-09-02",
+        "DELIQUENCY_DATE": "2021-10-01"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 10,
+        "CYCLE_DATE": "2021-10-04",
+        "PAYMENT_DUE_DATE": "2021-10-04",
+        "DELIQUENCY_DATE": "2021-11-01"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 11,
+        "CYCLE_DATE": "2021-11-03",
+        "PAYMENT_DUE_DATE": "2021-11-03",
+        "DELIQUENCY_DATE": "2021-12-01"
+    },
+    {
+        "GROUP": 3,
+        "YEAR": 2021,
+        "MONTH": 12,
+        "CYCLE_DATE": "2021-12-02",
+        "PAYMENT_DUE_DATE": "2021-12-02",
+        "DELIQUENCY_DATE": "2022-01-03"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 1,
+        "CYCLE_DATE": "2021-01-12",
+        "PAYMENT_DUE_DATE": "2021-01-12",
+        "DELIQUENCY_DATE": "2021-02-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 2,
+        "CYCLE_DATE": "2021-02-10",
+        "PAYMENT_DUE_DATE": "2021-02-10",
+        "DELIQUENCY_DATE": "2021-03-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 3,
+        "CYCLE_DATE": "2021-03-10",
+        "PAYMENT_DUE_DATE": "2021-03-10",
+        "DELIQUENCY_DATE": "2021-04-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 4,
+        "CYCLE_DATE": "2021-04-12",
+        "PAYMENT_DUE_DATE": "2021-04-12",
+        "DELIQUENCY_DATE": "2021-05-10"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 5,
+        "CYCLE_DATE": "2021-05-11",
+        "PAYMENT_DUE_DATE": "2021-05-11",
+        "DELIQUENCY_DATE": "2021-06-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 6,
+        "CYCLE_DATE": "2021-06-10",
+        "PAYMENT_DUE_DATE": "2021-06-10",
+        "DELIQUENCY_DATE": "2021-07-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 7,
+        "CYCLE_DATE": "2021-07-12",
+        "PAYMENT_DUE_DATE": "2021-07-12",
+        "DELIQUENCY_DATE": "2021-08-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 8,
+        "CYCLE_DATE": "2021-08-10",
+        "PAYMENT_DUE_DATE": "2021-08-10",
+        "DELIQUENCY_DATE": "2021-09-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 9,
+        "CYCLE_DATE": "2021-09-10",
+        "PAYMENT_DUE_DATE": "2021-09-10",
+        "DELIQUENCY_DATE": "2021-10-11"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 10,
+        "CYCLE_DATE": "2021-10-12",
+        "PAYMENT_DUE_DATE": "2021-10-12",
+        "DELIQUENCY_DATE": "2021-11-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 11,
+        "CYCLE_DATE": "2021-11-10",
+        "PAYMENT_DUE_DATE": "2021-11-10",
+        "DELIQUENCY_DATE": "2021-12-09"
+    },
+    {
+        "GROUP": 10,
+        "YEAR": 2021,
+        "MONTH": 12,
+        "CYCLE_DATE": "2021-12-10",
+        "PAYMENT_DUE_DATE": "2021-12-10",
+        "DELIQUENCY_DATE": "2022-01-10"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 1,
+        "CYCLE_DATE": "2021-01-19",
+        "PAYMENT_DUE_DATE": "2021-01-19",
+        "DELIQUENCY_DATE": "2021-02-16"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 2,
+        "CYCLE_DATE": "2021-02-17",
+        "PAYMENT_DUE_DATE": "2021-02-17",
+        "DELIQUENCY_DATE": "2021-03-16"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 3,
+        "CYCLE_DATE": "2021-03-17",
+        "PAYMENT_DUE_DATE": "2021-03-17",
+        "DELIQUENCY_DATE": "2021-04-16"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 4,
+        "CYCLE_DATE": "2021-04-19",
+        "PAYMENT_DUE_DATE": "2021-04-19",
+        "DELIQUENCY_DATE": "2021-05-17"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 5,
+        "CYCLE_DATE": "2021-05-18",
+        "PAYMENT_DUE_DATE": "2021-05-18",
+        "DELIQUENCY_DATE": "2021-06-16"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 6,
+        "CYCLE_DATE": "2021-06-17",
+        "PAYMENT_DUE_DATE": "2021-06-17",
+        "DELIQUENCY_DATE": "2021-07-16"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 7,
+        "CYCLE_DATE": "2021-07-19",
+        "PAYMENT_DUE_DATE": "2021-07-19",
+        "DELIQUENCY_DATE": "2021-08-16"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 8,
+        "CYCLE_DATE": "2021-08-17",
+        "PAYMENT_DUE_DATE": "2021-08-17",
+        "DELIQUENCY_DATE": "2021-09-17"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 9,
+        "CYCLE_DATE": "2021-09-20",
+        "PAYMENT_DUE_DATE": "2021-09-20",
+        "DELIQUENCY_DATE": "2021-10-18"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 10,
+        "CYCLE_DATE": "2021-10-19",
+        "PAYMENT_DUE_DATE": "2021-10-19",
+        "DELIQUENCY_DATE": "2021-11-16"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 11,
+        "CYCLE_DATE": "2021-11-17",
+        "PAYMENT_DUE_DATE": "2021-11-17",
+        "DELIQUENCY_DATE": "2021-12-16"
+    },
+    {
+        "GROUP": 17,
+        "YEAR": 2021,
+        "MONTH": 12,
+        "CYCLE_DATE": "2021-12-17",
+        "PAYMENT_DUE_DATE": "2021-12-17",
+        "DELIQUENCY_DATE": "2022-01-17"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 1,
+        "CYCLE_DATE": "2021-01-26",
+        "PAYMENT_DUE_DATE": "2021-01-26",
+        "DELIQUENCY_DATE": "2021-02-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 2,
+        "CYCLE_DATE": "2021-02-24",
+        "PAYMENT_DUE_DATE": "2021-02-24",
+        "DELIQUENCY_DATE": "2021-03-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 3,
+        "CYCLE_DATE": "2021-03-24",
+        "PAYMENT_DUE_DATE": "2021-03-24",
+        "DELIQUENCY_DATE": "2021-04-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 4,
+        "CYCLE_DATE": "2021-04-26",
+        "PAYMENT_DUE_DATE": "2021-04-26",
+        "DELIQUENCY_DATE": "2021-05-24"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 5,
+        "CYCLE_DATE": "2021-05-25",
+        "PAYMENT_DUE_DATE": "2021-05-25",
+        "DELIQUENCY_DATE": "2021-06-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 6,
+        "CYCLE_DATE": "2021-06-24",
+        "PAYMENT_DUE_DATE": "2021-06-24",
+        "DELIQUENCY_DATE": "2021-07-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 7,
+        "CYCLE_DATE": "2021-07-26",
+        "PAYMENT_DUE_DATE": "2021-07-26",
+        "DELIQUENCY_DATE": "2021-08-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 8,
+        "CYCLE_DATE": "2021-08-24",
+        "PAYMENT_DUE_DATE": "2021-08-24",
+        "DELIQUENCY_DATE": "2021-09-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 9,
+        "CYCLE_DATE": "2021-09-24",
+        "PAYMENT_DUE_DATE": "2021-09-24",
+        "DELIQUENCY_DATE": "2021-10-25"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 10,
+        "CYCLE_DATE": "2021-10-26",
+        "PAYMENT_DUE_DATE": "2021-10-26",
+        "DELIQUENCY_DATE": "2021-11-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 11,
+        "CYCLE_DATE": "2021-11-24",
+        "PAYMENT_DUE_DATE": "2021-11-24",
+        "DELIQUENCY_DATE": "2021-12-23"
+    },
+    {
+        "GROUP": 24,
+        "YEAR": 2021,
+        "MONTH": 12,
+        "CYCLE_DATE": "2021-12-24",
+        "PAYMENT_DUE_DATE": "2021-12-24",
+        "DELIQUENCY_DATE": "2022-01-24"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 1,
+        "CYCLE_DATE": "2021-01-05",
+        "PAYMENT_DUE_DATE": "2021-01-05",
+        "DELIQUENCY_DATE": "2021-02-02"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 2,
+        "CYCLE_DATE": "2021-02-03",
+        "PAYMENT_DUE_DATE": "2021-02-03",
+        "DELIQUENCY_DATE": "2021-03-01"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 3,
+        "CYCLE_DATE": "2021-03-02",
+        "PAYMENT_DUE_DATE": "2021-03-02",
+        "DELIQUENCY_DATE": "2021-04-05"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 4,
+        "CYCLE_DATE": "2021-04-06",
+        "PAYMENT_DUE_DATE": "2021-04-06",
+        "DELIQUENCY_DATE": "2021-05-03"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 5,
+        "CYCLE_DATE": "2021-05-04",
+        "PAYMENT_DUE_DATE": "2021-05-04",
+        "DELIQUENCY_DATE": "2021-06-01"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 6,
+        "CYCLE_DATE": "2021-06-02",
+        "PAYMENT_DUE_DATE": "2021-06-02",
+        "DELIQUENCY_DATE": "2021-07-01"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 7,
+        "CYCLE_DATE": "2021-07-02",
+        "PAYMENT_DUE_DATE": "2021-07-02",
+        "DELIQUENCY_DATE": "2021-08-02"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 8,
+        "CYCLE_DATE": "2021-08-03",
+        "PAYMENT_DUE_DATE": "2021-08-03",
+        "DELIQUENCY_DATE": "2021-09-01"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 9,
+        "CYCLE_DATE": "2021-09-02",
+        "PAYMENT_DUE_DATE": "2021-09-02",
+        "DELIQUENCY_DATE": "2021-10-01"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 10,
+        "CYCLE_DATE": "2021-10-04",
+        "PAYMENT_DUE_DATE": "2021-10-04",
+        "DELIQUENCY_DATE": "2021-11-01"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 11,
+        "CYCLE_DATE": "2021-11-03",
+        "PAYMENT_DUE_DATE": "2021-11-03",
+        "DELIQUENCY_DATE": "2021-12-01"
+    },
+    {
+        "GROUP": 30,
+        "YEAR": 2021,
+        "MONTH": 12,
+        "CYCLE_DATE": "2021-12-02",
+        "PAYMENT_DUE_DATE": "2021-12-02",
+        "DELIQUENCY_DATE": "2022-01-03"
+    }
+]
