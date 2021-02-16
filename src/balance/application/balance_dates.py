@@ -41,7 +41,9 @@ def compute_cycle_date(deliquency_date: datetime.date):
 
 
 def compute_payment_due_date(cycle_date: datetime.date) -> datetime.date:
-    cycle_date = datetime.datetime.combine(cycle_date, datetime.datetime.min.time())
+    base_date = datetime.datetime.combine(
+        cycle_date + relativedelta(days=20), datetime.datetime.min.time()
+    )
     return get_next_business_day(
-        from_date=cycle_date, until_date=cycle_date + relativedelta(days=20)
+        from_date=base_date, until_date=base_date + relativedelta(months=1)
     )
